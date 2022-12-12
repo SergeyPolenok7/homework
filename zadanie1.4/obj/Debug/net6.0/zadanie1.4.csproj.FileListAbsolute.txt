@@ -1,0 +1,15 @@
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\bin\Debug\net6.0\zadanie1.4.exe
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\bin\Debug\net6.0\zadanie1.4.deps.json
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\bin\Debug\net6.0\zadanie1.4.runtimeconfig.json
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\bin\Debug\net6.0\zadanie1.4.dll
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\bin\Debug\net6.0\zadanie1.4.pdb
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.csproj.AssemblyReference.cache
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.AssemblyInfoInputs.cache
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.AssemblyInfo.cs
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.csproj.CoreCompileInputs.cache
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.dll
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\refint\zadanie1.4.dll
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.pdb
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\zadanie1.4.genruntimeconfig.cache
+C:\Users\ProAction24\Desktop\homework\zadanie1.4\obj\Debug\net6.0\ref\zadanie1.4.dll
